@@ -2,6 +2,11 @@
 
 # README
 
+### In Unit Integration Assignment Part-3 we have to do :
+
+3. Write the unit and integration test cases after completing the implementation of the following classes. 
+   The framework has already been created and most of the implementation of methods already exists.
+
 
 ## Clone the Git Repository
 
